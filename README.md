@@ -5,9 +5,11 @@
 
 ## Key Findings:
 •	Total revenue of $430,952 reflects financial success.                                        
+
 ![image](https://github.com/lavanya-126/Fashion-Retail-Sales-SQL-Data-Analysis/assets/154506749/4bc8fc1f-ca46-40fe-aee1-0df6261cedc5)
 
 •	Customers spent an average of $156.71 per transaction.
+
 ![image](https://github.com/lavanya-126/Fashion-Retail-Sales-SQL-Data-Analysis/assets/154506749/f5353f8f-77e3-474e-a2a0-3830af0985b6)
 
 •	Maximum purchase reached $4932, indicating potential.
@@ -42,7 +44,9 @@
 
 •	While October 2023 is marked by significantly lower sales, it's essential to note that the data only captures sales for the first day of the month.
 
-##Customer Segments Analysis (RFM AND CLTV Analysis):
+##
+Customer Segments Analysis (RFM AND CLTV Analysis):
+
 ![image](https://github.com/lavanya-126/Fashion-Retail-Sales-SQL-Data-Analysis/assets/154506749/7b2b038a-b547-43fc-9396-328b119bb0e7)
 
 ![image](https://github.com/lavanya-126/Fashion-Retail-Sales-SQL-Data-Analysis/assets/154506749/c0f272da-e84b-4d51-895a-4e04d7bc4422)
@@ -53,12 +57,13 @@
 
 •	The **"Lost"** and **"Declining"** segments have lower average sales, indicating potential issues with customer retention and satisfaction.
 
-##Suggestions:
-•	**Retention Strategies:** Focus on retaining customers in the "Lost" and "Declining" segments by offering incentives, personalized experiences, and addressing any issues they might be facing.
+## Suggestions:
 
-•	**Upselling/Cross-selling:** Identify opportunities to upsell or cross-sell to customers in the "Regular" segment to increase their average sales further.
+•	**Retention Strategies:** Focus on retaining customers in the **"Lost"** and **"Declining"** segments by offering incentives, personalized experiences, and addressing any issues they might be facing.
 
-•	**Targeted Marketing:** Tailor marketing efforts to engage with customers in the "Active-Loyal" and "Best" segments to nurture their loyalty and increase their lifetime value.
+•	**Upselling/Cross-selling:** Identify opportunities to upsell or cross-sell to customers in the **"Regular"** segment to increase their average sales further.
+
+•	**Targeted Marketing:** Tailor marketing efforts to engage with customers in the **"Active-Loyal"** and **"Best"** segments to nurture their loyalty and increase their lifetime value.
 
 •	**Segment-specific Campaigns:** Develop targeted campaigns for each segment based on their behavior and financial value to maximize ROI and customer satisfaction.
 
