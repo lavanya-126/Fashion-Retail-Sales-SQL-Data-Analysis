@@ -1,8 +1,24 @@
 # Fashion-Retail-Sales-SQL-Data-Analysis
-## Dataset source  https://www.kaggle.com/datasets/fekihmea/fashion-retail-sales 
+Dataset from Kaggle - https://www.kaggle.com/datasets/fekihmea/fashion-retail-sales 
+About Dataset - 
+## Description
+The "Fashion Retail Sales Dataset" consists of six key columns:
+
+**Customer Reference ID:** This column contains unique identifiers for customers, enabling the tracking of individual buying patterns and preferences.
+
+**Item Purchased:** It provides information about the clothing items that customers have bought. This column includes a wide variety of clothing items, ranging from T-shirts and jeans to accessories like scarves and hats.
+
+**Purchase Amount (USD):** This column details the amount of money spent by each customer for their purchases. It may contain outliers, reflecting occasional high-value purchases.
+
+**Date Purchase:** The purchase date indicates when each transaction occurred, offering a temporal perspective on buying trends and seasonality.
+
+**Review Rating:** Customers' satisfaction levels are quantified using this column, with ratings ranging from 1 to 5. It is an essential metric for assessing product quality and customer experience.
+
+**Payment Method:** This column reveals the method used by customers to make payments, with options including 'Credit Card' and 'Cash'.
+
+Data Analysis and Visualisation done in SQL and Excel
 
 ## Summary
-
 ## Key Findings:
 •	Total revenue of $430,952 reflects financial success.                                        
 
@@ -34,7 +50,7 @@
 
 •	Out of a total of 166 customers, **43 customers** were found to be **outliers** using the z-score method.
 
-##Trends Analysis:
+## Trends Analysis:
 
 ![image](https://github.com/lavanya-126/Fashion-Retail-Sales-SQL-Data-Analysis/assets/154506749/31463184-f0ec-4349-91d7-7fedd356e8ad)
 
@@ -44,8 +60,7 @@
 
 •	While October 2023 is marked by significantly lower sales, it's essential to note that the data only captures sales for the first day of the month.
 
-##
-Customer Segments Analysis (RFM AND CLTV Analysis):
+## Customer Segments Analysis (RFM AND CLTV Analysis):
 
 ![image](https://github.com/lavanya-126/Fashion-Retail-Sales-SQL-Data-Analysis/assets/154506749/7b2b038a-b547-43fc-9396-328b119bb0e7)
 
