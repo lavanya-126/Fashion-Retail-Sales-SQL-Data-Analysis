@@ -1,5 +1,6 @@
 # Fashion-Retail-Sales-SQL-Data-Analysis
 Dataset from Kaggle - https://www.kaggle.com/datasets/fekihmea/fashion-retail-sales 
+
 About Dataset - 
 ## Description
 The "Fashion Retail Sales Dataset" consists of six key columns:
@@ -56,13 +57,14 @@ Data Analysis and Visualisation done in SQL and Excel
 
 •	Sales exhibit a clear seasonal trend, with peaks observed during **holiday seasons** such as **December 2022 and May 2023**. The high sales in May could be attributed to factors like Mother's Day promotions or the arrival of summer fashion collections.
 
-![image](https://github.com/lavanya-126/Fashion-Retail-Sales-SQL-Data-Analysis/assets/154506749/90f3efb0-b20d-4715-b67d-e283f361005d)
+![image](https://github.com/lavanya-126/Fashion-Retail-Sales-SQL-Data-Analysis/assets/154506749/653772c8-93c1-4d7c-b6b9-ff1e073187ef)
+
 
 •	While October 2023 is marked by significantly lower sales, it's essential to note that the data only captures sales for the first day of the month.
 
 ## Customer Segments Analysis (RFM AND CLTV Analysis):
 
-![image](https://github.com/lavanya-126/Fashion-Retail-Sales-SQL-Data-Analysis/assets/154506749/7b2b038a-b547-43fc-9396-328b119bb0e7)
+![image](https://github.com/lavanya-126/Fashion-Retail-Sales-SQL-Data-Analysis/assets/154506749/00f3b22b-f9ff-4b14-8298-05a8f0159079)
 
 ![image](https://github.com/lavanya-126/Fashion-Retail-Sales-SQL-Data-Analysis/assets/154506749/c0f272da-e84b-4d51-895a-4e04d7bc4422)
 
